@@ -263,5 +263,20 @@
         "name": "3300 MHz",
         "label": "3300 MHz - +1750 SoC Required",
         "hex": "E40C"
+    },
+    {
+        "name": "3333 MHz",
+        "label": "3333 MHz - +1750 SoC Required",
+        "hex": "050D"
+    },
+    {
+        "name": "3366 MHz",
+        "label": "3366 MHz - +1750 SoC Required",
+        "hex": "260D"
+    },
+    {
+        "name": "3400 MHz",
+        "label": "3400 MHz - +1750 SoC Required",
+        "hex": "480D"
     }
 ]
